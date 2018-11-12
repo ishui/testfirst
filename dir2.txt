@@ -1,0 +1,10 @@
+total 24
+-rw-r--r-- 1 root root  14 Nov 12 10:32 append.txt
+-rw-r--r-- 1 root root  48 Nov 11 21:00 a.txt
+-rw-r--r-- 1 root root   0 Nov 12 15:04 dir2.txt
+-rw-r--r-- 1 root root 400 Nov 12 14:50 dir.txt
+-rw-r--r-- 1 root root  25 Nov 11 22:40 mydel2.txt
+-rw-r--r-- 1 root root  25 Nov 11 22:37 mydel.txt
+-rw-r--r-- 1 root root  13 Nov 11 20:14 reindex.html
+drwxr-xr-x 2 root root  35 Nov 11 19:57 ssub
+drwxr-xr-x 2 root root  21 Nov 11 19:50 sub
